@@ -1,0 +1,2 @@
+# Project-LinearSeparabilityInData
+The objective of the project is to analyse the [Speaker Accent Recognition Dataset](https://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=num&area=soc&numAtt=&numIns=&type=mvar&sort=typeUp&view=list) from the UCI Machine Learning Repository. The task is to determine if the dataset is linearly separable in the feature space defined by the linear Principal Component Analysis (PCA) or in the feature space defined by the non-linear PCA with the use of the Radial Basis Function Kernel.
